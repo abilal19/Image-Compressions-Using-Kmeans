@@ -1,3 +1,3 @@
 # Image-Compressions-Using-Kmeans
 
-Built from scratch an image compression algorithm using Kmeans with varying number of centeroids and optional optimization parametes with their illustrated effects. The mathematical explanation for the maximum reduction in the distortion function in each iterative step can be found in the K-Means Image Compression Algorithm Explanation file.  
+Built from scratch an image compression algorithm using Kmeans with varying number of centeroids and optional optimization parameters with their illustrated effects on efficiency. The mathematical explanation for the maximum reduction in the non-convex distortion function in each iterative step towards the local minimum can be found in the K-Means Image Compression Algorithm Explanation file.  
